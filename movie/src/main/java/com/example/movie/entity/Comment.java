@@ -66,7 +66,7 @@ public class Comment {
 		this.account = account;
 	}
 
-	// Creatㄏノ把计
+	// 
 	public Comment(String movie,int movieID, int commentIndex, String commentText,String account) {
 		super();
 		this.movie = movie;
@@ -80,7 +80,7 @@ public class Comment {
 		this.dislike = 0;
 	}
 	
-	// Creatchildㄏノ把计
+	// 
 	public Comment(String movie,int movieID, int commentIndex,int commentIndexIndex, String commentText,String account) {
 		super();
 		this.movie = movie;
